@@ -1,0 +1,4 @@
+References
+
+http://shiny.rstudio.com/gallery/word-cloud.html
+http://www.inside-r.org/packages/cran/wordcloud/docs/wordcloud
